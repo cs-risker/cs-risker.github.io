@@ -1,2 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>cs-risker的博客</title><link>https://cs-risker.github.io</link><description>总结分享计算机科学的一些知识...</description><copyright>cs-risker的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/206727409?v=4</url><title>avatar</title><link>https://cs-risker.github.io</link></image><lastBuildDate>Sat, 20 Sep 2025 08:23:50 +0000</lastBuildDate><managingEditor>cs-risker的博客</managingEditor><ttl>60</ttl><webMaster>cs-risker的博客</webMaster><item><title>第一篇文章测试</title><link>https://cs-risker.github.io/post/di-yi-pian-wen-zhang-ce-shi.html</link><description>test。</description><guid isPermaLink="true">https://cs-risker.github.io/post/di-yi-pian-wen-zhang-ce-shi.html</guid><pubDate>Sat, 20 Sep 2025 07:27:57 +0000</pubDate></item><item><title>About Me</title><link>https://cs-risker.github.io/about.html</link><guid isPermaLink="true">https://cs-risker.github.io/about.html</guid><pubDate>Sat, 20 Sep 2025 08:21:50 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>cs-risker的博客</title><link>https://cs-risker.github.io</link><description>总结分享计算机科学的一些知识...</description><copyright>cs-risker的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/206727409?v=4</url><title>avatar</title><link>https://cs-risker.github.io</link></image><lastBuildDate>Sat, 20 Sep 2025 14:50:13 +0000</lastBuildDate><managingEditor>cs-risker的博客</managingEditor><ttl>60</ttl><webMaster>cs-risker的博客</webMaster><item><title>第一篇文章测试</title><link>https://cs-risker.github.io/post/di-yi-pian-wen-zhang-ce-shi.html</link><description>test。</description><guid isPermaLink="true">https://cs-risker.github.io/post/di-yi-pian-wen-zhang-ce-shi.html</guid><pubDate>Sat, 20 Sep 2025 07:27:57 +0000</pubDate></item><item><title>About Me</title><link>https://cs-risker.github.io/about.html</link><description># Educational Experience
+* Central South University; School of Computer Science; Computer Science and Technology
+* Huazhong University of Science and Technology; Wuhan National Laboratory for Optoelectronics/School of Computer Science and Technology; Computer Technology 
+# Technology Footprints
+## 1.Data Structures and Algorithms
+I'm familiar with commonly used data structure and algorithm programming ideas, and have recorded the solutions of various classic problems on leetcode, uploading them to my github: [leetcode-notes]()
+## 2.Computer Architecture
+I have studied the classic textbook 'Computer Systems: A Programmer's Perspective' from Carnegie Mellon University, also known as 'CSAPP'. During this process, I took detailed notes on most of the chapters, and these notes can be searched on the blog of my homepage(please search for: cmu15-213 experiment records on the homepage).
+## 3.Other Useful Tools
+In addition to the important computer professional knowledge mentioned above, I have also explored a certain range of common tools in the field of computers, and I have discussions on most of them in my blog(please search for: ). Below, I have listed a portion of them：
+* CMake
+* gdb
+* git
+* shell
+* ......
+# Project Experience
+## 1.CMU15-213:CSAPP
+### description
+This project is from the course experiment of cmu-15213. During the process, I recorded detailed experimental procedures, which can all be found on my blog (please search for: cmu15-213 experiment records on the homepage). In addition, all the source code for the experiment has been uploaded to my GitHub:[cmu15213-lab]()。</description><guid isPermaLink="true">https://cs-risker.github.io/about.html</guid><pubDate>Sat, 20 Sep 2025 14:49:37 +0000</pubDate></item><item><title>About Me</title><link>https://cs-risker.github.io/about.html</link><guid isPermaLink="true">https://cs-risker.github.io/about.html</guid><pubDate>Sat, 20 Sep 2025 08:21:50 +0000</pubDate></item></channel></rss>
