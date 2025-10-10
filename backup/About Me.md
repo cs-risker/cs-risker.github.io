@@ -6,7 +6,9 @@
 I'm familiar with commonly used data structure and algorithm programming ideas, and have recorded the solutions of various classic problems on leetcode, uploading them to my github: [leetcode-notes]()
 ## 2.Computer Architecture
 I have studied the classic textbook "Computer Systems: A Programmer's Perspective" from Carnegie Mellon University, also known as "CSAPP". During this process, I took detailed notes on most of the chapters, and these notes can be searched on the blog of my homepage(please search for: CSAPP Reading Notes).
-## 3.Other Useful Tools
+## 3.Operating System
+I have studied the classic textbook "Operating Systems: Three Easy Pieces", also known as "OSTEP". During this process, I took detailed notes on most of the chapters, and these notes can be searched on the blog of my homepage(please search for: OSTEP Reading Notes).
+## 4.Other Useful Tools
 In addition to the important computer professional knowledge mentioned above, I have also explored a certain range of common tools in the field of computers, and I have discussions on most of them in my blog(for example,you can search for:  GitHub remote branch management). Below, I have listed a portion of them：
 * CMake
 * gdb
